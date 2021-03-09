@@ -35,11 +35,6 @@ Im base on...
 </ul>
 
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZWNiMzY5NTYtNGYyMS00MGZkLTg0NTktNDdhMjVmY2RlMjIyIiwidCI6IjlhZjgxMjJjLWZjMTctNGY4Ni04ZTU2LTkwMDQ1OTUzMDhmOSIsImMiOjR9" title="Dashboard" width=100% height="300"></iframe>
-
-
-
-
 
 
 
